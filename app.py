@@ -6,4 +6,3 @@ else:
 
 # message = "Nitelikli1" if age >= 18 else "Niteliksiz1"
 print(message)
-g
