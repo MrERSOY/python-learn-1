@@ -1,0 +1,1 @@
+print("merhaba dünya! ben python öğrenmeye başladım.")
